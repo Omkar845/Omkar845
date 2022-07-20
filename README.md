@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm OMKAR VICHARE</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar845&label=Profile%20views&color=0e75b6&style=flat" alt="omkar845" /> </p>
 
-- 🌱 I’m currently learning **Angular, React**
+- 🌱 I’m currently learning **Spring, Hibernate**
 
-- 💬 Ask me about **Design**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **omkarvichare101999@gmail.com**
 
