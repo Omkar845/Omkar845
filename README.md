@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar845&label=Profile%20views&color=0e75b6&style=flat" alt="omkar845" /> </p>
 
-- 🌱 I’m currently learning **C#, Hibernate**
+- 🌱 I’m currently learning **ASP.NET Core**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **omkarvichare101999@gmail.com**
 
